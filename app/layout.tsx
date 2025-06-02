@@ -2,9 +2,8 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.dev',
+  title: 'Goat - Your fav Solana Coin',
+  description: 'Dripped in gold. Drenched in SOL. Its GOAT time.',
 }
 
 export default function RootLayout({
